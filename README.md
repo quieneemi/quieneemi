@@ -2,7 +2,7 @@
 I am C++ and C# developer from Russia, Novosibirsk
 
 ## Education 📖
-School 21 (Ecole 42)
+[School 21](https://21-school.ru/) ( [Ecole 42](https://42.fr/en/homepage/) )
 
 ## Languages & Tools
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"/><img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
