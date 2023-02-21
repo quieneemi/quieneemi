@@ -1,6 +1,3 @@
-## Hi there 👋
-I am C++ and C#/.NET developer from Russia, Novosibirsk
-
 ## Education 📖
 [School 21](https://21-school.ru/) ( [Ecole 42](https://42.fr/en/homepage/) )
 
