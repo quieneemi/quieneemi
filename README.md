@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am C++ and C# developer from Russia, Novosibirsk
+I am C++ and C#/.NET developer from Russia, Novosibirsk
 
 ## Education 📖
 School 21 (Ecole 42)
