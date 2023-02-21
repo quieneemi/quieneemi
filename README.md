@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+I am C++ and C# developer from Russia, Novosibirsk
+
+## Education 📖
+School 21 (Ecole 42)
 
 ## Languages & Tools
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"/><img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
@@ -15,4 +19,6 @@
 
 <img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white"/><img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/><img src="https://img.shields.io/badge/Xamarin-3498DB.svg?style=for-the-badge&logo=Xamarin&logoColor=white"/>
 
-## Current Projects
+## Projects
+- [3D Viewer](https://github.com/quieneemi/3DViewer) - description
+- [Habit Tracker](https://github.com/quieneemi/HabitTrakcer) - description
