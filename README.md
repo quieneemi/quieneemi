@@ -18,5 +18,5 @@
 
 ## Projects
 - [3D Viewer](https://github.com/quieneemi/3DViewer) - description
-- [Habit Tracker](https://github.com/quieneemi/HabitTrakcer) - description
+- [Habit Tracker](https://github.com/quieneemi/HabitTracker) - description
 - [Travelling Salesman Problem](https://github.com/quieneemi/TravellingSalesmanProblem) - PostgreSQL solution
