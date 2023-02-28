@@ -17,6 +17,6 @@
 <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white"/><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"/>
 
 ## Projects
-- [3D Viewer](https://github.com/quieneemi/3DViewer) - description
-- [Habit Tracker](https://github.com/quieneemi/HabitTracker) - description
-- [Travelling Salesman Problem](https://github.com/quieneemi/TravellingSalesmanProblem) - PostgreSQL solution
+- [3D Viewer](https://github.com/quieneemi/3DViewer) - Qt C++ OpenGL
+- [Habit Tracker](https://github.com/quieneemi/HabitTracker) - .NET MAUI | Entity Framework
+- [Travelling Salesman Problem](https://github.com/quieneemi/TravellingSalesmanProblem) - PostgreSQL
