@@ -22,5 +22,5 @@
 - [Travelling Salesman Problem](https://github.com/quieneemi/TravellingSalesmanProblem) - PostgreSQL
 
 ## Contact Me
-- Telegram: @guieneemi
+- Telegram: @quieneemi
 - Discord: quieneemi#9274
