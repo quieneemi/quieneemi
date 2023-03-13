@@ -20,3 +20,7 @@
 - [3D Viewer](https://github.com/quieneemi/3DViewer) - Qt C++ OpenGL
 - [Habit Tracker](https://github.com/quieneemi/HabitTracker-AvaloniaUI) - Avalonia UI | Entity Framework | SQLite
 - [Travelling Salesman Problem](https://github.com/quieneemi/TravellingSalesmanProblem) - PostgreSQL
+
+## Contact Me
+- Telegram: @guieneemi
+- Discord: quieneemi#9274
