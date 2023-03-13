@@ -18,5 +18,5 @@
 
 ## Projects
 - [3D Viewer](https://github.com/quieneemi/3DViewer) - Qt C++ OpenGL
-- [Habit Tracker](https://github.com/quieneemi/HabitTracker) - .NET MAUI | Entity Framework
+- [Habit Tracker](https://github.com/quieneemi/HabitTracker-AvaloniaUI) - Avalonia UI | Entity Framework | SQLite
 - [Travelling Salesman Problem](https://github.com/quieneemi/TravellingSalesmanProblem) - PostgreSQL
